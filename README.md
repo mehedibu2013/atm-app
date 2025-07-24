@@ -80,6 +80,4 @@ This project is licensed under the MIT License.
 
 **Live Demo:** [https://atm-app-eight.vercel.app/](https://atm-app-eight.vercel.app/)
 
-**GitHub Pages:** [https://mehedibu2013.github.io/react-examples/atm-app/](https://mehedibu2013.github.io/react-examples/atm-app/)
-
 ---
