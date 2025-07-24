@@ -8,17 +8,17 @@ A TypeScript React ATM interface prototype featuring a modern UI/UX design and r
 
 ## Features
 
-- Simulated card insertion and removal  
-- Secure PIN entry with validation  
-- Cash withdrawal with balance and daily limit checks  
-- Transaction receipt generation and display  
-- Robust error handling and user feedback  
+- Simulated card insertion and removal
+- Secure PIN entry with validation
+- Cash withdrawal with balance and daily limit checks
+- Transaction receipt generation and display
+- Robust error handling and user feedback
 - Responsive layout using Tailwind CSS for seamless experience on all devices
 
 ## Demo Credentials
 
-- **PIN:** `1234`  
-- **Available Balance:** `$1,250.50`  
+- **PIN:** `1234`
+- **Available Balance:** `$1,250.00`
 - **Daily Withdrawal Limit:** `$500`
 
 ## Getting Started
@@ -26,10 +26,11 @@ A TypeScript React ATM interface prototype featuring a modern UI/UX design and r
 Follow these steps to run the project locally:
 
 1. **Clone the repository:**
+
    ```bash
-   git clone <your-repo-url>
-   cd atm-app
-````
+   git clone https://github.com/mehedibu2013/react-examples.git
+   cd react-examples/atm-app
+   ```
 
 2. **Install dependencies:**
 
@@ -57,14 +58,15 @@ The build output will be in the `build/` folder.
 
 ## Technologies Used
 
-* React with TypeScript
-* Tailwind CSS
-* Vercel for deployment
+- React with TypeScript
+- Tailwind CSS
+- Vercel for primary deployment
+- GitHub Pages as secondary deployment
 
 ## Folder Structure
 
-* `src/components` – Reusable UI components
-* `public` – Public static files
+- `src/components` – Reusable UI components
+- `public` – Public static files
 
 ## Contribution
 
@@ -78,5 +80,6 @@ This project is licensed under the MIT License.
 
 **Live Demo:** [https://atm-app-eight.vercel.app/](https://atm-app-eight.vercel.app/)
 
----
+**GitHub Pages:** [https://mehedibu2013.github.io/react-examples/atm-app/](https://mehedibu2013.github.io/react-examples/atm-app/)
 
+---
